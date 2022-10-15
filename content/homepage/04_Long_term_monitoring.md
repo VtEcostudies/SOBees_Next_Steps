@@ -5,3 +5,5 @@ header_menu: true
 ---
 
 Long-term monitoring of all 350+ bees in the state would be nearly impossible and prohibitively expensive. Many species however can be monitored without collecting and thus can serve as bellwethers. In particular, bumble bees can be affordably surveyed by trained volunteers at large enough spatial and temporal scales to allow for statistical assessments.
+
+<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Current Knowledge</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a></p>

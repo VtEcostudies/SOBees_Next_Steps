@@ -4,7 +4,7 @@ weight: 1
 header_menu: true
 ---
 <br>
-<div class="lead" style="padding-top:20px; text-decoration:underline;">
+<div class="lead" style="padding-top:20px;">
   <h5>
   Among the roughly 125 bee species known from New England, but not yet recorded in Vermont, are a number of rare species that would be of high
   conservation priority if they do occur here

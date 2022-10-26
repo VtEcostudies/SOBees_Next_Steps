@@ -15,9 +15,9 @@ To effectively respond to heightened conservation concerns for wild bees and oth
 The plan will have broad goals with specific action items that will be completed in a 5-year timeframe. These goals will include:
 
 <ul>
-<li>Make the Vermont landscape more pollinator friendly by working with farmers, public land managers, home owners, and others to help implement important management actions.</li>
-<li>Help beekeepers achieve healthy, sustainable populations, and for honey bees to be part of a cohesive pollinator message that balances managed and wild pollinator populations.</li>
-<li>Conserving rare native bees and other pollinators by improving our knowledge and by raising awareness through dedicated initiatives, and protecting as much wild pollinator diversity as possible.</li>
+<li>Make Vermont's landscapes more pollinator friendly by working with farmers, public land managers, home owners, and others to help implement important management actions.</li>
+<li>Help beekeepers achieve healthy, sustainable populations, and ensure honey bees are part of a cohesive pollinator message that balances managed and wild pollinator populations.</li>
+<li>Conserve rare native bees and other pollinators by improving our knowledge and by raising awareness through dedicated initiatives, and protecting as much wild pollinator diversity as possible.</li>
 <li>Address important knowledge gaps through research and conduct population monitoring of certain species and locations to help track our progress.</li>
 <ul>
 

@@ -29,7 +29,7 @@ Under the broader goals, examples of specific action items to be implemented wou
 <li>Establish long-term monitoring routes for bumble bees across Vermont</li>
 <li>Assess the current frequency and associated threats of mail-order mason bees and other managed species</li>
 <li>Survey for species of regional conservation concern that have not yet been recorded in the state</li>
-<li>Improve the quality and accessibility of occurrence and monitoring data collected within the state<li>
+<li>Improve the quality and accessibility of occurrence and monitoring data collected within the state</li>
 <li>Explore options for conservation actions targeted at maintaining working sandpits that can also support rare bees and other species reliant on these habitats</li>
 </ul>
 

@@ -26,14 +26,14 @@ title = "VAL - State of Bees - Next Steps"
     description = "Vermont Center for Ecostudies' State of Bees Report"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    #favicon = "images/VCE_logo_vertical_RGB_transparent.png"
-    favicon = "images/vce_favicon.png"
+    #favicon = "https://stateofbees.vtatlasoflife.org/images/VCE_logo_vertical_RGB_transparent.png"
+    favicon = "https://stateofbees.vtatlasoflife.org/images/vce_favicon.png"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/Agapostemon_sericeus.jpeg"]
+    images = ["https://stateofbees.vtatlasoflife.org/images/Agapostemon_sericeus.jpeg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.

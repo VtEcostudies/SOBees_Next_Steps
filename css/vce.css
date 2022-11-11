@@ -1,16 +1,18 @@
 /* VCE styles */
 
 /* Begin overides of hugo scroll styles for site */
-
 .blog-title {
   color: white;
-  font-weight: normal;
+  font-weight: bolder;
   -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
-/* Override anchor tag default appearance */
-a {
-  text-decoration: underline;
+.blog-description {
+  color: white;
+  font-weight: bolder;
+  font-size: 200%;
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 /* Override img as they appear in bootstrap grids */
